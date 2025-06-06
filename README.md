@@ -1,132 +1,181 @@
 <div align="center">
-
-# 👋 Hi there, I'm DIBYA
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Software+Engineer;Database+Expert)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=redzonerror&style=flat-square&color=red)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=DIBYA&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20Developer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </div>
 
-## 🧠 About Me
-
-I'm a passionate software developer with expertise across multiple technologies. I love building innovative solutions and exploring new technologies.
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat animation" width="30"> I'm currently working on:
-  - Creating innovative new software projects from scratch
-  - Improving existing projects with advanced features
-  - Performing complex data migration between different systems
-  - Developing secure and scalable applications
-- 🌱 I'm continuously learning and improving my skills
-- 💬 Ask me about anything tech-related
-- ⚡ Fun fact: I code best with a cup of coffee ☕
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-### 💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🔗 Blockchain
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### 🔐 Security & Pentesting
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-4285F4?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### 🔍 Reverse Engineering
-
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-5C2D91?style=for-the-badge&logo=ida-pro&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-4A154B?style=for-the-badge&logo=ghidra&logoColor=white)
-![Radare2](https://img.shields.io/badge/Radare2-FF6B6B?style=for-the-badge&logo=radare2&logoColor=white)
-![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-FF7F00?style=for-the-badge&logo=binary-ninja&logoColor=white)
-
-### 🤖 Automation & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-62E0D9?style=for-the-badge&logo=n8n&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📱 Mobile & Desktop
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Expert;Software+Engineer" alt="Typing SVG" />
 </div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dibya0018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=redzonerror&theme=radical" alt="RedZONERROR's GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Full_Stack_Developer-5%2B_Years-0078D6?style=for-the-badge&logo=developer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Enterprise_Applications-Expert-00C853?style=for-the-badge&logo=enterprise&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=redzonerror&theme=redical&bg_color=20232a&hide_border=true" alt="RedZONERROR's Contribution Graph" />
+## 💼 Core Competencies
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>AI & Machine Learning</b><br/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Frontend Development</b><br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Backend Development</b><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Architecture & DevOps</b><br/>
+        <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=microservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🏆 Professional Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI_Models-90%25_Accuracy-00C853?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/High_Traffic_Apps-60%25_Performance_Improvement-00C853?style=for-the-badge&logo=chart-line&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CI/CD_Pipeline-60%25_Faster_Deployment-FF6F00?style=for-the-badge&logo=rocket&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Database_Optimization-40%25_Query_Improvement-0078D6?style=for-the-badge&logo=database&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dibya0018&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Dibya's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibya0018&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibya0018&theme=dark&hide_border=true" />
+</div>
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>AI & ML Technologies</b><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Languages</b><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Databases</b><br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Tools & Platforms</b><br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💼 Professional Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI_Development-Expert-00C853?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Expert-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Expert-00C853?style=for-the-badge&logo=lightbulb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team_Leadership-Advanced-FF6F00?style=for-the-badge&logo=users&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technical_Documentation-Expert-0078D6?style=for-the-badge&logo=document&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile_Methodologies-Expert-00C853?style=for-the-badge&logo=agile&logoColor=white" />
 </div>
 
 ## 📫 Connect With Me
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-redzonerror@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:redzonerror@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RedZONERROR-181717?style=for-the-badge&logo=github)](https://github.com/redzonerror)
-[![Telegram](https://img.shields.io/badge/Telegram-RedZONERROR-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/redzonerror)
-
+  <a href="mailto:dibyajyotidatta777@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/dibya0018">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/RedXNexon">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-### Thanks for visiting my profile! 👨‍💻
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI3bmYxazh0c3Awd3JnZnc2dG53aXNpd3pyN3Q5M2hsb2dkcjRsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
-
-<p>
- Remember to stay curious and keep coding!
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Let's%20Connect!&fontSize=40&fontAlignY=35&animation=twinkling"/>
 </div>
 
-If you want to collaborate on a project or need help with something, feel free to reach out to me!
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redzonerror/redzonerror/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redzonerror/redzonerror/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/redzonerror/redzonerror/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dibya0018/dibya0018/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dibya0018/dibya0018/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dibya0018/dibya0018/output/github-snake.svg" />
 </picture>
