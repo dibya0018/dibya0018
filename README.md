@@ -119,5 +119,5 @@
 
 <!-- FOOTER -->
 <div align="center">
- type=waving&color=gradient&customColorList=12,14&height=180&section=header&text=DIBYA%20DATTA&fontSize=50&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14&height=180&section=header&text=DIBYA%20DATTA&fontSize=50&fontAlignY=35&animation=fadeIn"/>
 </div>
