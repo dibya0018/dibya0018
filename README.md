@@ -108,12 +108,19 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dibya0018/dibya0018/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dibya0018/dibya0018/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/dibya0018/dibya0018/output/github-snake-dark.svg" width="90%" />
+  </picture>
+</div>
+
+---
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14&height=100&section=footer"/>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dibya0018/dibya0018/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/dibya0018/dibya0018/output/github-snake.svg" />
-</picture>
