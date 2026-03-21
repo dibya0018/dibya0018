@@ -98,9 +98,6 @@
   <a href="https://github.com/dibya0018">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://t.me/RedXNexon">
-    <img src="https://github.com/user-attachments/assets/24d565f0-ebd7-4d12-8ef3-15c5d62b6a93" />
-  </a>
   <a href="https://www.linkedin.com/in/dibya-jyoti-datta-b84a7029a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
